@@ -1,3 +1,7 @@
+[![GitHub Pre-Release](https://img.shields.io/github/release-pre/CozmycDev/PK-Sprout.svg)](https://github.com/CozmycDev/PK-Sprout/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/CozmycDev/PK-Sprout/total.svg)](https://github.com/CozmycDev/PK-Sprout/releases)
+![Size](https://img.shields.io/github/repo-size/CozmycDev/PK-Sprout.svg)
+
 # Sprout Ability for ProjectKorra
 
 This is an addon ability for the [ProjectKorra](https://projectkorra.com/) plugin for Spigot Minecraft servers. The ability was originally created by NickC1211 and has been updated and fixed to work with later versions of ProjectKorra and Spigot.
